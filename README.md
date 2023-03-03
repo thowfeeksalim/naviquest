@@ -5,7 +5,7 @@
 <a href=#><img src="/16.gif"></a>
 <br>
 <h1 align="center"> <strong> 🗺️Naviquest </strong> </h1> 
-<h1 align="center"><a href="https://github.com/thowfeeksalim/naviquest">Live Demo</a></h1>
+<h1 align="center"><a href="https://thowfeeksalim.github.io/naviquest/">Live Demo</a></h1>
 
 <!-- PROJECT LOGO -->
 <br />
@@ -19,7 +19,7 @@
     <a href="#about-the-project"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/thowfeeksalim/naviquest">View Demo</a>
+    <a href="https://thowfeeksalim.github.io/naviquest/">View Demo</a>
     ·
     <a href="https://github.com/thowfeeksalim/naviquest/issues">Report Bug</a>
     ·
@@ -57,7 +57,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]<img src="/ss.png">
+<img src="/ss.png">
 
 naviquest is a vanilla JavaScript application that interacts with the Leaflet library and display Map. This app uses modern JavaScript tools, such as Webpack to bundle the modules, and Babel to convert ES6, ES7 and ES8 back to ES5. The user can add workouts for running and cycling and these are stored via local storage.
 
@@ -157,7 +157,7 @@ See the [open issues](https://github.com/thowfeeksalim/naviquest/issues) for a l
 
 ## Deployment
 
-Deployed Website:  https://github.com/thowfeeksalim/naviquest
+Deployed Website:  https://thowfeeksalim.github.io/naviquest/
 
 
 
