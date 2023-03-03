@@ -10,9 +10,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-
-  <h3 align="center">Naviquest</h3>
-
   <p align="center">
     Navigate your world with ease with the Naviquest app by your side.
     <br />
