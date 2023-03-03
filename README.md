@@ -59,7 +59,7 @@
 
 <img src="/ss.png">
 
-naviquest is a vanilla JavaScript application that interacts with the Leaflet library and display Map. This app uses modern JavaScript tools, such as Webpack to bundle the modules, and Babel to convert ES6, ES7 and ES8 back to ES5. The user can add workouts for running and cycling and these are stored via local storage.
+Naviquest is a vanilla JavaScript application that interacts with the Leaflet library and display Map. This app uses modern JavaScript tools, such as Webpack to bundle the modules, and Babel to convert ES6, ES7 and ES8 back to ES5. The user can add workouts for running and cycling and these are stored via local storage.
 
 ###   Details
 
@@ -158,7 +158,7 @@ See the [open issues](https://github.com/thowfeeksalim/naviquest/issues) for a l
 ## Deployment
 
 Deployed Website:  https://thowfeeksalim.github.io/naviquest/
-
+<img src="/logo.png">
 
 
 <!-- CONTRIBUTING -->
@@ -233,4 +233,4 @@ SOFTWARE.
 [issues-url]: https://github.com/thowfeeksalim/naviquest/issues
 [license-shield]: https://img.shields.io/apm/l/vim-mode?label=LICENSE&style=for-the-badge
 [license-url]: https://github.com/thowfeeksalim/naviquest/blob/master/LICENSE.txt
-[product-screenshot]: <img src="/ss.png">
+<img src="/ss.png">
